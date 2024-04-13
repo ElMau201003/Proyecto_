@@ -1,5 +1,5 @@
 # Prueba de conflicto
 ## UC
-### Aldo Requena 
+### Mauricio Gabriel Rivera Velazco
 EAP: Ingeniería de Sistemas e Informática
 Construcción de software
